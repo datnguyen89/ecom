@@ -4,6 +4,7 @@
 antd-demo/node_modules
 products/node_modules
 container/node_modules
+cart/node_modules
 /node_modules
 /.pnp
 .pnp.js
